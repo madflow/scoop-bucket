@@ -6,14 +6,14 @@
             "bin": [
                 "skate.exe"
             ],
-            "hash": "e24efa3fe35ce4cbb4d284b3d0f3396877355069f79469188080c8313518508c"
+            "hash": "4f297a49ea226af087c2018fa5e145afe1ed302e982770e590aa081b5c467416"
         },
         "64bit": {
             "url": "https://github.com/madflow/skate-ipsum/releases/download/v0.0.8/skate-ipsum_Windows_x86_64.zip",
             "bin": [
                 "skate.exe"
             ],
-            "hash": "e70a94f1a45e6df96b20d5b986c9f4360d8ff9ec6d24b68c40e5d3819a1f79bc"
+            "hash": "6c5d49106d54402e9cdfc8fa14e8255c909275a94650063dfb66978ac0bf0a8a"
         }
     },
     "homepage": "https://github.com/madflow/skate-ipsum",
